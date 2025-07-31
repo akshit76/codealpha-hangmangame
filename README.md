@@ -1,1 +1,1 @@
-hangman game
+guess a word game made by python 
